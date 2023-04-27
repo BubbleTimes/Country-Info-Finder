@@ -1,6 +1,6 @@
 {
   "start": "PORT=3000 react-scripts start",
-  "name": "client",
+  "name": "frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
