@@ -1,5 +1,6 @@
 {
   "start": "PORT=3000 react-scripts start",
+"build": "react-scripts build",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
